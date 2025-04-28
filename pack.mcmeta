@@ -1,7 +1,10 @@
 {
-    "pack": {
-        "pack_format": 34,
-        "description": "§cG§6a§em§ai§bn§9g §fTexture! for obsidian.",
-		"supported_formats": [18, 22, 32, 34] 
+  "pack": {
+    "pack_format": 34,
+    "description": "§cG§6a§em§ai§bn§9g §fTexture! for obsidian.",
+    "supported_formats": {
+      "max_inclusive": 55,
+      "min_inclusive": 15
     }
+  }
 }
